@@ -1,0 +1,2 @@
+# drf_reactBgManagementSys
+用来给react后台管理系统（reactBacklgroundSystem）提供响应的接口
